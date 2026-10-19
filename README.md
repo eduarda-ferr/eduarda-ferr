@@ -72,19 +72,16 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduarda-ferr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165px" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=eduarda-ferr&show_icons=true&theme=tokyonight&hide_border=true" height="165px" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduarda-ferr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Top Langs" />
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduarda-ferr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Top Langs" />
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-<div align="center">
 
   📫 **Vamos conversar?**
   

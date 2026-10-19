@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- BANNER (Substitua ./banner.png pelo caminho da sua imagem) -->
-  <img src="./banner.png" alt="Maria Eduarda Banner" width="100%" />
-
   <br/><br/>
 
-  <h1>Hi there, I'm Maria Eduarda 👋</h1>
+  <h1>Olá, Sou Maria Eduarda 👋</h1>
 
   <p><b>Java Back-end Developer | Cloud Computing Specialist (AWS) | ADS Graduate</b></p>
 

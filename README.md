@@ -10,7 +10,7 @@
 
   <!-- BADGES DE STATUS E LOCALIZAÇÃO -->
   <p>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/eduardafb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
@@ -19,17 +19,21 @@
 
 <hr/>
 
+<img src="./icon-c-removebg-preview.png" align="right" width="150" alt="Icon C" />
+
 ### 🚀 Sobre Mim
 
 > 🎓 **Graduada em Análise e Desenvolvimento de Sistemas**, atuando no desenvolvimento Back-end com **Java** e **Cloud Computing (AWS)**.
 > 
 > 💡 Tenho bagagem complementar em **Front-end (UI/UX, Integração de IA)** e **Mobile**, garantindo uma visão completa (*Full-Cycle*) na construção de soluções escaláveis, limpas e bem arquitetadas.
 
-* ☕ **Back-end:** Desenvolvimento de APIs RESTful robustas com **Java, Spring Boot e Clean Code**.
-* ☁️ **Cloud:** **AWS Certified Cloud Practitioner** (estudos para *Solutions Architect* em andamento), com foco em Serverless, IaC (CloudFormation) e Well-Architected Framework.
-* 🤖 **Front-end & Inovação:** Interfaces modernas (HTML, CSS, JS) e consumo de APIs de IA Generativa.
+- ☕ **Back-end:** Desenvolvimento de APIs RESTful robustas com **Java, Spring Boot e Clean Code**.
+- ☁️ **Cloud:** **AWS Certified Cloud Practitioner** (estudos para *Solutions Architect* em andamento), com foco em Serverless, IaC (CloudFormation) e Well-Architected Framework.
+- 🤖 **Front-end & Inovação:** Interfaces modernas (HTML, CSS, JS) e consumo de APIs de IA Generativa.
 
 <br/>
+
+<img src="./icon-pa-removebg-preview.png" align="left" width="120" alt="Icon PA" />
 
 ### 🛠️ Tech Stack
 
@@ -66,25 +70,30 @@
 
 <br/>
 
-  ### 📊 Estatísticas do GitHub
-  
-  <div align="center">
-    <table border="0">
-      <tr>
-        <td align="center">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=eduarda-ferr&show_icons=true&theme=tokyonight&hide_border=true" height="165px" alt="GitHub Stats" />
-        </td>
-        <td align="center">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduarda-ferr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Top Langs" />
-        </td>
-      </tr>
-    </table>
-  </div>
+<img src="./icon-ph-removebg-preview.png" align="right" width="70" alt="Icon PH" />
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=eduarda-ferr&show_icons=true&theme=tokyonight&hide_border=true" height="165px" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduarda-ferr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165px" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
 
   📫 **Vamos conversar?**
   
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:teuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eduardafb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mariaeduardafb00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>

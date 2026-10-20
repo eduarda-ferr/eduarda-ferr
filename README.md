@@ -1,6 +1,8 @@
 <div align="center">
 
-  <br/><br/>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3271/3271001.png" width="200" alt="Coding GIF">
+</p>
 
   <h1>Olá, Sou Maria Eduarda 👋</h1>
 
